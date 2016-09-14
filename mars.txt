@@ -5,7 +5,8 @@ and more
 and even less
 
 and updated on GitHub
-
-
 oh, and a local change
+and now the update on Github to create a conflict
+
+confliect 2
 
